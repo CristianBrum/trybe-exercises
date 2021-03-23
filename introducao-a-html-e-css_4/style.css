@@ -1,0 +1,127 @@
+body { font-family:"https://fonts.googleapis.com/css2?family=Chango&display=swap";
+    
+
+}
+
+
+.header{
+    display:inline-block;
+    width:100%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 38px;
+    color:dodgerblue;
+    background-color: lightgray;
+    
+}
+
+.nav-links  li{
+    display:inline-block;
+    padding: 10px;
+    list-style: none;
+  
+  
+   }
+   
+
+   .nav-links li:hover, li:visited{
+       font-weight: bolder;
+       background-color:dodgerblue;
+              border-radius: 5px;
+      
+    
+
+   }
+   .facts{
+font-size: 3em;
+padding: 10px;
+color: dodgerblue;
+margin-top: 1%;
+
+
+
+   }
+
+   .article{
+       background-color:lightgrey;
+       width: 100%;
+       
+       
+   }
+ 
+
+.table,th,td{
+    border: 1px ridge black;
+    font-size: 30px;
+    
+
+}
+
+.table{
+    margin: 0 auto ;
+    margin-bottom: 1px;
+    text-align: center;
+    margin-top: 150px;
+
+
+}
+
+
+.main{
+    text-align: center;
+    
+    
+    
+}
+
+.section{
+    width:75%;
+    text-align: center;
+     margin: 0 auto;
+    padding: 10px;
+    
+}
+.section h4{
+font-size: 3em;
+color: dodgerblue;
+
+}
+.section p{
+    font-size: 2em;
+}
+
+
+#reference li{
+    font-size: 20px;
+    list-style: none;
+    text-align: left;
+    
+    
+    
+}
+#reference{
+    font-size: 30px;
+    text-align: left;
+    padding: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+
+
+
+aside {
+    width: 100%;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+    padding-bottom: 10px;
+
+}
+
+.footer{
+    font-size: 30px;
+    width: 100%;
+    background-color: beige;
+
+
+}
