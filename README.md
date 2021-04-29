@@ -28,7 +28,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - HTML & CSS - Lessons Learned](https://github.com/tryber/sd-011-project-lessons-learned/pull/97)_ :eight_pointed_black_star:
+- [x] 3-5: _[Projeto - HTML & CSS - Lessons Learned]()_ :eight_pointed_black_star:
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -45,8 +45,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Meme Generator]()_
-- [x] 5-6: _[Projeto - Arte com Pixels]()_
-- [x] 5-7: _[Projeto - Lista de tarefas]()_
+- [x] 5-6: _[Projeto - Arte com Pixels](https://github.com/CristianBrum/cristianbrum.io/tree/master/projects/sd-011-project-pixels-art)_
+- [x] 5-7: _[Projeto - Lista de tarefas](https://github.com/CristianBrum/cristianbrum.io/tree/master/projects/sd-011-project-todo-list)_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
